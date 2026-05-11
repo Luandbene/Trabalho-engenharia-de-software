@@ -1,10 +1,13 @@
-# Cronograma do Projeto
+# Gestão da Qualidade
 
-| Semana | Atividade |
-|---|---|
-| 1 | Planejamento do projeto |
-| 2 | Documentação |
-| 3 | Desenvolvimento da interface |
-| 4 | Implementação das funcionalidades |
-| 5 | Testes |
-| 6 | Entrega final |
+## Controle de Versão
+
+O projeto utilizará GitHub para versionamento e armazenamento do código.
+
+## Garantia da Qualidade
+
+Serão realizados testes manuais nas funcionalidades do sistema.
+
+## Organização do Código
+
+O código será separado por estrutura e funcionalidades para facilitar manutenção.
