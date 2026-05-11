@@ -1,3 +1,7 @@
-# Planejamento de testes
+# Planejamento de Testes
 
-Documento inicial de testes
+| Funcionalidade | Entrada | Resultado Esperado |
+|---|---|---|
+| Adicionar tarefa | Texto válido | Tarefa adicionada |
+| Remover tarefa | Clique em remover | Tarefa excluída |
+| Concluir tarefa | Clique em concluir | Tarefa marcada |
